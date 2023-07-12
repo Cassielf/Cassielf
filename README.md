@@ -1,12 +1,12 @@
 ## Olá pessoas!
 
-Meu nome é Byanca, e sou estudante Biblioteconomia pela UFPE e formada em Técnico em Informática para Internet pelo IFPE (Para mais informações acesse meu Linkedin!😄).
+Meu nome é Byanca, sou formada em Biblioteconomia pela UFPE e Técnica em Informática para Internet pelo IFPE (Para mais informações acesse meu Linkedin!😄).
 
 Desde o ensino médio tenho um interesse especial por programação que descobri depois de fazer algumas oficinas de robótica, ninguém queria ficar como programadora então sobrava pra mim. Depois de uns anos iniciei minha graduação em Biblioteconomia (e batgirl nas horas vagas hahaha🦇), porém meus amigos e professores me puxaram pro darkside of the moon chamado Tecnologia e mergulhei nessa imensidão. Enquanto estava fazendo biblioteconomia fui fazendo alguns cursos de lógica de programação (Tenho um carinho especial por Pyhton 🐍 pois foi a primeira LP que tive contato), iniciei o meu curso técnico, e depois de ser convidada a ir num evento do Pyladies Recife tive certeza de que estava no lugar certo!
 
-Atualmente minhas principais stacks são: Java, Mysql, HTML+CSS e estou aprendendo Angular. Além disso, tenho uma paixão por design e negócios ✨.
+Atualmente minhas principais stacks são: Java, Mysql, HTML+CSS e estou aprendendo Angular. Além disso, tenho uma paixão imensa por Data science ✨.
 
-Mesmo não sendo bibliotecária (ainda, pois estou terminando), posso contribuir com assuntos relacionados a Organização/Arquitetura da informação, Literatura, Coleta de informações em bases de dados especializadas, Classificação e Indexação.
+Posso contribuir com assuntos relacionados a Organização/Arquitetura da informação, Literatura, Coleta de informações em bases de dados especializadas, Classificação e Indexação.
 
 Fique a vontade para olhar os repositórios, são modestos mas fiz com muito carinho... ❣️
 <p align="center">
